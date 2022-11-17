@@ -3,3 +3,4 @@ To accomblish obstacle avoidace task, we used a 3DConv network to produse a stee
 
 
 ![Picture1](https://user-images.githubusercontent.com/118448679/202457551-fe4c80e5-e0bf-4027-ae79-6555df60752a.jpg)
+[network_2.pdf](https://github.com/boudiafA/obstacle_avoidance_3DConv/files/10031910/network_2.pdf)
