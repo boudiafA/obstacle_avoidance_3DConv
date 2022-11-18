@@ -1,10 +1,10 @@
 # Image-based Obstacle Avoidance using 3DConv Network for Rocky Environment
 To accomblish obstacle avoidace task, we used a 3DConv network to produse a steering direction based on sequantioal RGB images input. The results shows the ability of the nework to avoide rocks with different shapes and sizes. Traning and testing data was based on AirSim simulator. We considered 5 different inputs to the network and we tested to see which tyype of inpute yeilds the best performance. The different models included :
-> Gray image
-> Depth map
-> Gray image + Depth map
-> RGB image
-> RGB image + Depth map
+- Gray image
+- Depth map
+- Gray image + Depth map
+- RGB image
+- RGB image + Depth map
 <list>
   df
   dsf
